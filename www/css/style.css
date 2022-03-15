@@ -1,0 +1,7 @@
+*{ margin: 0;padding: 0;box-sizing: border-box;}
+body{background: linear-gradient(#e66465, #9198e5);min-height: 100vh;}
+.form{align-items: center;justify-content: center;text-align: center; flex-direction: column;margin-top: 20%;}
+form h3{color: #fff;margin-bottom: 10px;}
+form input{width: 80%;border: none;padding: 10px;color: gray;margin-top: 6px;}
+.btn{width: 80%;padding:10px;border: none;color: #fff;background: transparent;margin-top: 6px;cursor: pointer;}
+.visualizer{padding: 90px;}
